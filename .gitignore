@@ -1,7 +1,7 @@
 *.aux
 *.log
 *.jar
-lib/*
+#lib/*
 classes/
 pom-generated.xml
 pom.xml
